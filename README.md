@@ -35,6 +35,9 @@ dialogs.
 • Weight Prediction Model: A trained machine learning model (Gradient Boosting) predicts weight based on body part measurements. 
 • Output Module: Displays the predicted weight to the user using a dialog box.
 
+![front_skeleton](https://github.com/user-attachments/assets/433d7179-b442-4cb2-a020-7a279846a6ff)
+
+
 # TO EXECUTE THE APPLICATION FOLLOW THE STEPS:
  step 1:install all the neccessary python libraries and packages in environment or system ,check the requirement files
  step 2:clone and download the all the neccessary files from this page.
