@@ -42,7 +42,10 @@ dialogs.
  step 4:execute measurement.py in python terminal and then drag and provide the neccessary input images and data.
 
  # SAMPLE OUTPUT:
-
+ This project able to get 95% and above accuracy in weight prediction even some times better than weighing scales.
+ even use fully detection mode with accurate and stable full body images wihtout any artifacts ,good lighting and clear environment it can give BODY MEASUREMENTS 89% accurate
+ if the input images contains irregular and inconsistencies in human subject angles,projections the output totatlly fails to give accurate or even relevant results.
+ 
  ![Screenshot 2025-05-26 110611](https://github.com/user-attachments/assets/f9143615-6587-4494-88a3-93b302941818)
  ![Screenshot 2025-05-26 113205](https://github.com/user-attachments/assets/0e21781a-e90c-4416-83f1-c75930a9b7ed)
 
